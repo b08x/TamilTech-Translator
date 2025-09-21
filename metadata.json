@@ -1,0 +1,5 @@
+{
+  "name": "TamilTech Translator",
+  "description": "An interactive generative UI that simulates a professional editorial and translation pipeline. It transforms raw English technical content into a publish-ready Tamil article using a series of specialized AI agents for translation, peer review, synthesis, and polishing.",
+  "requestFramePermissions": []
+}
